@@ -17,22 +17,9 @@ keywords = "minimalist,blog,goa,hugo,developer"
 ## Social Accounts
 [params.social]
 github = "s0litaire"
-instagram = "<username>"
-linkedin = "<username>"
-twitter = "<username>"
-facebook = "<username>"
-google = "<username>"
-lastfm = "<username>"
-flickr = "<username>"
-steam = "<username>"
-reddit = "<username>"
-snapchat = "<username>"
-youtube = "<channelid>"
-twitch = "<username>"
-skype = "<username>"
-whatsapp = "<username>"
+linkedin = "bill-cumming-a8536521"
+twitter = "bill_cumming"
 email = "contact@billcumming.com"
-pgp = "<key_fingerprint>"
 
 ## Extras
 [params.extra]
@@ -44,18 +31,19 @@ toc = true
 displayrssicon = false
 
 ## Main Menu
+
+[[menu.main]]
+    name = "Contact Me:"
+    identifier = "contact"
+    weight = 300
+    url = "http://S0litaire.github.io"
 [[menu.main]]
     name = "CV/Resume"
-    weight = 300
+    weight = 100
     identifier = "CV"
     url = "/resume/"
 [[menu.main]]
     name = "blog"
-    weight = 300
+    weight = 100
     identifier = "blog"
     url = "/blog/"
-[[menu.main]]
-    name = "about"
-    identifier = "about"
-    weight = 300
-    url = "/about/"
