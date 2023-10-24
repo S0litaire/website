@@ -41,7 +41,7 @@ displayrssicon = false
     name = "CV/Resume"
     weight = 100
     identifier = "CV"
-    url = "/resume/"
+    url = "/CV/"
 [[menu.main]]
     name = "blog"
     weight = 100
