@@ -1,7 +1,11 @@
 --- 
 title: "My CV"
 date: 2023- 10- 24T15:19:27+01:00
+<<<<<<<
 draft: flase
+=======
+draft: false
+>>>>>>>
 --- 
 # **Personal Profile:**
 `I'm a knowledgeable and capable individual who is highly experienced in an I.T. Environment mainly on help desk and support in installation areas. I'm well organised, reliable and an enthusiastic team player who is disciplined and motivated. Hard working and self relent, with the ability to remain calm and good humoured under pressure. Enjoys working on own initiative or as part of a team. I'm looking for a career that will enhance my current skills and knowledge base and allow me to gain a full time career.`
