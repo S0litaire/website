@@ -1,3 +1,61 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'http://billcumming.co.uk/'
+languageCode = 'en-gb'
+title = 'My Hugo Site'
+theme = 'hugo-goa'
+
+[params]
+author = "Bill Cumming"
+intro = "My Contact Page"
+authorimage = "profile-test.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+github = "s0litaire"
+instagram = "<username>"
+linkedin = "<username>"
+twitter = "<username>"
+facebook = "<username>"
+google = "<username>"
+lastfm = "<username>"
+flickr = "<username>"
+steam = "<username>"
+reddit = "<username>"
+snapchat = "<username>"
+youtube = "<channelid>"
+twitch = "<username>"
+skype = "<username>"
+whatsapp = "<username>"
+email = "contact@billcumming.com"
+pgp = "<key_fingerprint>"
+
+## Extras
+[params.extra]
+copyright = "Theme: © 2016. Erlich Bachman. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = true
+highlightjs = true
+socialmarkup = true
+toc = true
+displayrssicon = false
+
+## Main Menu
+[[menu.main]]
+    name = "CV/Resume"
+    weight = 300
+    identifier = "CV"
+    url = "/resume/"
+[[menu.main]]
+    name = "blog"
+    weight = 300
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 300
+    url = "/about/"
