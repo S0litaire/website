@@ -5,16 +5,16 @@ draft: true
 ---
 # **How to set up a Rasberry Pi with Alpine OS with Docker and install and setup AudioBookShelf podcast server**
 
-#Set up Raspbery Pi:
+# Set up Raspbery Pi:
 - empty SD card
 - Alpine OS image
 - Initial setup
 
-#Install required software :
+# Install required software :
 - docker
 - git
 - other utils
 
-#Audiobookshelf install
+# Audiobookshelf install
 - create dockerfile
 - mount external drive [if required]
