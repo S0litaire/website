@@ -47,3 +47,8 @@ displayrssicon = false
     weight = 100
     identifier = "blog"
     url = "/blog/"
+[[menu.main]]
+    name = "About"
+    weight = 100
+    identifier = "about"
+    url = "/about/"

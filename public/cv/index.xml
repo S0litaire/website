@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CVs on My Hugo Site</title>
+    <link>http://billcumming.co.uk/cv/</link>
+    <description>Recent content in CVs on My Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language><atom:link href="http://billcumming.co.uk/cv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My CV</title>
+      <link>http://billcumming.co.uk/cv/cv-new/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://billcumming.co.uk/cv/cv-new/</guid>
+      <description>Personal Profile: I&#39;m a knowledgeable and capable individual who is highly experienced in an I.T. Environment mainly on help desk and support in installation areas. I&#39;m well organised, reliable and an enthusiastic team player who is disciplined and motivated. Hard working and self relent, with the ability to remain calm and good humoured under pressure. Enjoys working on own initiative or as part of a team. I&#39;m looking for a career that will enhance my current skills and knowledge base and allow me to gain a full time career.</description>
+    </item>
+    
+  </channel>
+</rss>
