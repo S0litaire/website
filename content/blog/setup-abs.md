@@ -1,12 +1,14 @@
 ---
+
 title: "Setup Abs"
 date: 2023-10-24T15:55:44+01:00
 draft: false
+
 ---
 
 # **How to...:**
 
-set up a Rasberry Pi with Alpine OS with Docker and install and setup AudioBookShelf podcast server
+Set up a Rasberry Pi with Alpine OS with Docker and install and setup AudioBookShelf podcast server
 
 # Set up Raspbery Pi:
 - empty SD card
